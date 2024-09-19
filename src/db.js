@@ -2,7 +2,7 @@ const mysql = require('mysql');
 
 // Create a MySQL connection
 const connection = mysql.createConnection({
-    host: "192.168.100.212", // IP Address App Server
+    host: "isi ip", // IP Address App Server
     user: "root",
     database: "kuliah",
     password: "", 
